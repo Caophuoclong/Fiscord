@@ -1,8 +1,10 @@
-import React from 'react'
-import {RightSideStyled} from "../styles/right-side.styled"
+import React, { useEffect, useState } from 'react'
+import {RightSideStyled} from "../styles/right-side.styled";
+
 export default function RightSide() {
+
     return (
-        <RightSideStyled>
+        <RightSideStyled className="bg-nord-main-normal">
             
         </RightSideStyled>
     )

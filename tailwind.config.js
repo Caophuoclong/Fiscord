@@ -15,6 +15,9 @@ module.exports = {
           channel: {
             selected: "#50545b",
             hover: "#313844"
+          },
+          main: {
+            normal: "#363c4a",
           }
         },
       }
