@@ -54,7 +54,7 @@ export default function ListChannel() {
                     <span id="id">#1512</span>
                 </p>
                 <div className="tools mx-auto flex text-white gap-4 text-3xl">
-                        <FaMicrophone className="cursor-pointer"/>
+                        <FaMicrophone  className="cursor-pointer"/>
                         <FaHeadphones className="cursor-pointer"/>
                         <FaCog className="cursor-pointer"/>
                 </div>
